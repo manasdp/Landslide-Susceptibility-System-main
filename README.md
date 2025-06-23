@@ -22,17 +22,17 @@ Landslides are a serious hazard in many geographic regions. Accurate and data-dr
 - Data preprocessing pipeline for geospatial terrain and environmental datasets
 - Feature engineering based on domain knowledge (DEM, land use, hydrology)
 - Classification using:
-  - Random Forest
-  - Logistic Regression
-  - Decision Tree
--  Evaluation metrics:
-  - Accuracy
-  - Precision, Recall, F1-score
-  - ROC-AUC
+  -  Random Forest
+  -  Logistic Regression
+  -  Decision Tree
+- Evaluation metrics:
+  -  Accuracy
+  -  Precision, Recall, F1-score
+  -  ROC-AUC
 -  Visualizations:
-  - Heatmaps of susceptibility
-  - Feature importance plots
-  - Confusion matrix and ROC curve
+  -  Heatmaps of susceptibility
+  -  Feature importance plots
+  -  Confusion matrix and ROC curve
 
 ---
 ## Results
