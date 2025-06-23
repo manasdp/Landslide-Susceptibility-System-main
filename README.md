@@ -29,7 +29,7 @@ Landslides are a serious hazard in many geographic regions. Accurate and data-dr
   -  Accuracy
   -  Precision, Recall, F1-score
   -  ROC-AUC
--  Visualizations:
+- Visualizations:
   -   Heatmaps of susceptibility
   -   Feature importance plots
   -   Confusion matrix and ROC curve
